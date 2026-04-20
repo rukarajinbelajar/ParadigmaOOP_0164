@@ -30,5 +30,6 @@ int main (){
     NonElektronik.tanggalProduksi = "11-12-2025";
 
     Elektronik.printData();
+    cout << endl;
     NonElektronik.printData();
 }
