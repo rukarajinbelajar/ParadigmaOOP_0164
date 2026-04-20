@@ -7,4 +7,8 @@ class barang{
     int jumlah;
     string kategori;
     string tanggalProduksi;
+
+    void printData(){
+
+    }
 }
