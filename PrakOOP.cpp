@@ -21,13 +21,13 @@ int main (){
     Elektronik.namaBarang = "Kulkas";
     Elektronik.jumlah = 10;
     Elektronik.kategori = "Elektronik";
-    Elektronik.tanggalProduksi = 20-25-2025;
+    Elektronik.tanggalProduksi = "20-25-2025";
 
     Barang NonElektronik;
     NonElektronik.namaBarang = "Meja";
     NonElektronik.jumlah = 50;
     NonElektronik.kategori = "Non Elektronik";
-    NonElektronik.tanggalProduksi = 11-12-2025;
+    NonElektronik.tanggalProduksi = "11-12-2025";
 
     Elektronik.printData();
     NonElektronik.printData();
